@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>  
+<RunSettings>  
+  <!-- Configure unit tests by using a .runsettings file:  -->
+  <!-- https://docs.microsoft.com/en-us/visualstudio/test/configure-unit-tests-by-using-a-dot-runsettings-file -->
+  <!-- Parameters used by tests at runtime -->  
+  <TestRunParameters>  
+    <Parameter name="webAppUrl" value="http://localhost:5000" />  
+  </TestRunParameters>  
+
+</RunSettings>  
